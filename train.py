@@ -5,3 +5,6 @@ def run(a, b = 1):
 class A(object):
     def __int__(self):
         pass
+
+    def a(self):
+        pass
